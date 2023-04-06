@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kozocom-hoaitt
+- 👋 Hi, I’m @hoaitt-kozocom
 <footer>
 		 --- Jester Jz ---
 </footer>
