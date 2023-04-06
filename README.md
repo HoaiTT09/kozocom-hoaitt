@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @hoaitt-kozocom
-<footer>
-		 --- Jester Jz ---
-</footer>
-<!---
-kozocom-hoaitt/kozocom-hoaitt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="center">👋 Hello! I'm HoaiTT (Jester Jz).</h2>
+<!-- <p align="center">
+  <a href="https://jesterjz.jz">Blog</a> •
+  <a href="https://twitter.com/iamjatinrao">Twitter</a>
+</p> -->
